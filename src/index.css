@@ -93,6 +93,8 @@
     font-family: 'Instrument Sans', 'Noto Sans Devanagari', ui-sans-serif, -apple-system, sans-serif;
     background-color: #fbfbfa;
     letter-spacing: -0.006em;
+    overflow-x: hidden;
+  max-width: 100vw;
   }
 
   .font-heading {
